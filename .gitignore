@@ -1,3 +1,4 @@
 .DS_Store
 fine_tuned_models/
 test_trainer/
+.ipynb_checkpoints/
