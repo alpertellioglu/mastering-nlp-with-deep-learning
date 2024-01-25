@@ -1,4 +1,4 @@
-# Mastering NLP with Deep Learning
+![cover-img](cover.jpeg)
 
 Repository for Pluralsight course "Mastering NLP with Deep Learning"
 
